@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# null
+# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
@@ -35,3 +35,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+## Download and Documentation
+
+[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
