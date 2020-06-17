@@ -14,7 +14,7 @@ email: "dalex@13.com"
 github: "dalex13/dalex13"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "dalex13"
+statement: "&empty; dalex13"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
