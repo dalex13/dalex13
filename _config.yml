@@ -1,8 +1,8 @@
 ## Settings
 title: null
 owner: "dalex13"
-url: "https://none.nio"
-baseurl: "/none"
+url: "https://dalex13.github.io/"
+baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
 description: ""
 markdown: kramdown
