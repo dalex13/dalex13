@@ -2,7 +2,7 @@
 title: UNAUTHORIZED ACCESS IS PROHIBITED
 owner: ""
 url: "https://dalex13.github.io"
-baseurl: "/dalex13"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
